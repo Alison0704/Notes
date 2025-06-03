@@ -1,0 +1,3 @@
+/Users/alisonemilien/Notes/cmake-build-debug/CMakeFiles/Notes.dir
+/Users/alisonemilien/Notes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alisonemilien/Notes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
